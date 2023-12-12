@@ -338,9 +338,9 @@ section {
 }
 
 .banner .content .alive {
-  font-family: "Kdam Thmor Pro", sans-serif;
-  font-family: "Nanum Myeongjo", serif;
-  font-family: "Noto Serif KR", serif;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Noto Serif KR', serif;
 }
 
 .container {
@@ -359,6 +359,11 @@ section {
   margin-bottom: 1.5rem;
 }
 
+.main {
+  width: 100px;
+  height: 100px;
+}
+
 .backyung {
   background-color: #eee;
 }
@@ -366,7 +371,7 @@ section {
 .post {
   display: inline-block;
   background: yellow;
-  padding: 10px;
+  padding: 12px;
   animation: fadein 3s;
   -moz-animation: fadein 3s; /* Firefox */
   -webkit-animation: fadein 3s; /* Safari and Chrome */
@@ -424,7 +429,7 @@ h1 {
 
 svg {
   display: block;
-  font: 10em "Montserrat";
+  font: 10em 'Montserrat';
   width: 600px;
   height: 150px;
   margin: 0 auto;
@@ -471,9 +476,9 @@ svg {
 }
 
 .clickme {
-  font-family: "Kdam Thmor Pro", sans-serif;
-  font-family: "Nanum Myeongjo", serif;
-  font-family: "Noto Serif KR", serif;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Noto Serif KR', serif;
   font-size: 25px;
 }
 
@@ -491,9 +496,9 @@ svg {
 }
 
 .container .posts-container .post .title {
-  font-family: "Kdam Thmor Pro", sans-serif;
-  font-family: "Nanum Myeongjo", serif;
-  font-family: "Noto Serif KR", serif;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Noto Serif KR', serif;
   padding-top: 1.5rem;
   font-size: 2.5rem;
   color: var(--black);
@@ -554,9 +559,9 @@ svg {
   color: #fff;
   background: var(--black);
   text-transform: capitalize;
-  font-family: "Kdam Thmor Pro", sans-serif;
-  font-family: "Nanum Myeongjo", serif;
-  font-family: "Noto Serif KR", serif;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Noto Serif KR', serif;
 }
 
 .container .sidebar .box .about {
@@ -870,7 +875,7 @@ svg {
 
 svg {
   display: block;
-  font: 20em "Montserrat";
+  font: 20em 'Montserrat';
   text-align: center;
   /* width: 630px;
   height: 300px; */
@@ -920,9 +925,9 @@ svg {
 .text2 {
   text-align: center;
   font-size: 20px;
-  font-family: "Kdam Thmor Pro", sans-serif;
-  font-family: "Nanum Myeongjo", serif;
-  font-family: "Noto Serif KR", serif;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Noto Serif KR', serif;
 }
 
 /* 초기화 */
@@ -1066,7 +1071,7 @@ button {
 
 .contact .boxbox .barabara {
   line-height: 50px;
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-align: center;
   font-size: 35px;
 }
@@ -1074,25 +1079,25 @@ button {
 .contact .boxbox .barababa {
   font-weight: bold;
   line-height: 50px;
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-align: center;
   font-size: 20px;
 }
 
 .contact .boxbox .bahaha {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-align: center;
   font-size: 15px;
 }
 
 .contact .boxbox .pahaha {
   font-weight: bold;
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-align: center;
   font-size: 20px;
 }
 .contact .boxbox .puhaha2 {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-align: center;
   font-size: 20px;
 }
